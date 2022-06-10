@@ -16,5 +16,5 @@ float GRAVITY = 0.25;
 PVector g;
 
 int counter = 0;
-int scene = 1; /// 0 = entry scene, 1 = levels, 2 = options
+int scene = 0; /// 0 = entry scene, 1 = levels, 2 = options
 int level = 0;
