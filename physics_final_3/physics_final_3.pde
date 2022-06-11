@@ -50,6 +50,15 @@ void draw()
       }
     }
     
+    for (int i = 0; i<bounces.length; i++)
+    {
+      if (bounces[i] != null)
+      {
+        bounces[i].display();
+        bounces[i].detect(candy);
+      }
+    }
+    
     omnom.display();
     runstars(starg, starp, candy);
     candy.go(omnom);
