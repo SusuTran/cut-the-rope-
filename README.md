@@ -12,6 +12,7 @@ For our final project, we recreated the popular mobile game “Cut the Rope,” 
     - Air Cushions: Click on an air cushion to blow air in its respective direction.
     - Spikes: Spikes will break the candy, plunging Om Nom into depression and failing the level.
     - Bounce Pads: Candy will bounce off bounce pads.
+    - Stars: Collect all three stars in each level for style points!
 
 ## Physical Components
 - Spring Forces: The level starts with a candy attached to one or more springs
