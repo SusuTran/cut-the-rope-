@@ -1,4 +1,4 @@
-# Physics C Final Project: Cut the Rope
+# Physics C Final Project: Cut the Spring
 By Susu Tran and Peter Zhao
 
 ## About
